@@ -1,3 +1,3 @@
 # github-test
 
-*hello
+1
